@@ -1,9 +1,8 @@
-## Hi there 
+![Static Badge](https://img.shields.io/badge/Archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs&logoColor=%235FA04E)
-![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=%23777BB4)
-![Static Badge](https://img.shields.io/badge/Laravel-black?style=flat&logo=laravel&logoColor=%23FF2D20)
+## My Tech Stack
+
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 
 
 
