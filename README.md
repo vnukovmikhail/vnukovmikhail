@@ -4,7 +4,7 @@
 
 ## ⚗️ Social Networks:
 
-![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fk7Qv5iXq3)
+![https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white](https://t.me/k7Qv5iXq3)
 
 ## 💾 I'm Involved In Learning:
 
