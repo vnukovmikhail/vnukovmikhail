@@ -1,5 +1,10 @@
 ## Hi there 
 
+![Static Badge](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=%235FA04E)
+![Static Badge](https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=%23777BB4)
+![Static Badge](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel&logoColor=%23FF2D20)
+
 
 
 <!--
@@ -17,4 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
