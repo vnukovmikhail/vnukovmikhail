@@ -7,7 +7,7 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k7Qv5iXq3)
 [![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vnukovmisa72@gmail.com)
 
-# 💾 I'm Involved In Learning:
+## 💾 I'm Involved In Learning:
 
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
