@@ -6,6 +6,15 @@
 
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=mariadb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
+
 
 
 
