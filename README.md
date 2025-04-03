@@ -1,8 +1,12 @@
-## Hi There, I'm Mikhail 
+## 👋 Hi There, I'm Mikhail 
+
+## 🫀 I'm Involved In Learning:
 
 ![Static Badge](https://img.shields.io/badge/Archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## My Tech Stack
+
+## 📦 My Tech Stack
 
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
