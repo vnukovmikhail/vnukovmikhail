@@ -31,8 +31,11 @@
 ![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=Apache&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Archlinux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GNU%20Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-
+![Static Badge](https://img.shields.io/badge/javascript-%23161b22?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 <!--
 **vnukovmikhail/vnukovmikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
