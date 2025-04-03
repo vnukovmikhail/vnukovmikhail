@@ -2,15 +2,19 @@
 
 ##### I am a university student, I am engaged in programming. I am much more interested in working with the backend, so I study the work of servers, databases and various frameworks for working with them: Django, Laravel, Node.js and others...
 
-## ⚗️ Social Networks:
+### ⚗️ Social Networks:
 
-[![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fk7Qv5iXq3)](https://t.me/k7Qv5iXq3)
+[![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k7Qv5iXq3)
+[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vnukovmisa72@gmail.com)
 
-## 💾 I'm Involved In Learning:
+# 💾 I'm Involved In Learning:
 
-![Static Badge](https://img.shields.io/badge/Archlinux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=for-the-badge&logo=Apache&logoColor=white)
 
 ## 📦 My Tech Stack:
 
@@ -24,7 +28,9 @@
 ![Static Badge](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=Apache&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Archlinux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GNU%20Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 
 
