@@ -11,6 +11,7 @@
 
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -36,6 +37,8 @@
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white)
 
 <!--
 **vnukovmikhail/vnukovmikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
