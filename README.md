@@ -1,4 +1,4 @@
-## 💽 Hi, I'm Mikhail Vnukov
+## 💽 Hi, I'm Mikhail 
 
 ##### I am a university student, I am engaged in programming. I am much more interested in working with the backend, so I study the work of servers, databases and various frameworks for working with them: Django, Laravel, Node.js and others...
 
