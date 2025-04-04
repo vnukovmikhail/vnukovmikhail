@@ -1,11 +1,11 @@
-## 💽 Hi, I'm Mikhail 
+## 💽 Hi, i'm Mikhail 
 
 ##### I am a university student, I am engaged in programming. I am much more interested in working with the backend, so I study the work of servers, databases and various frameworks for working with them: Django, Laravel, Node.js and others...
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k7Qv5iXq3)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vnukovmisa72@gmail.com)
 
-### 📝 Learning & Knowledge:
+### 📝 Learning & knowledge:
 
 ![Git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -15,7 +15,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=Apache&logoColor=white)
 
-### 📑 My Tech Stack:
+### 📑 Languages and tools:
 
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
