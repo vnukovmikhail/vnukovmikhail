@@ -9,13 +9,13 @@
 
 ## 💾 I'm Involved In Learning:
 
-![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=flat&logo=npm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat&logo=Laravel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=Django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat&logo=nginx&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=flat&logo=Apache&logoColor=white)
 
 ## 📦 My Tech Stack:
 
