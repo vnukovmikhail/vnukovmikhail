@@ -2,10 +2,8 @@
 
 ##### I am a university student, I am engaged in programming. I am much more interested in working with the backend, so I study the work of servers, databases and various frameworks for working with them: Django, Laravel, Node.js and others...
 
-### 💬 Networks:
-
-[![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k7Qv5iXq3)
-[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vnukovmisa72@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/k7Qv5iXq3)
+[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vnukovmisa72@gmail.com)
 
 ### 📝 Learning & Knowledge:
 
@@ -17,7 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=Apache&logoColor=white)
 
-## 📦 My Tech Stack:
+## 📑 My Tech Stack:
 
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
