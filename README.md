@@ -10,10 +10,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=Apache&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 
 ### 📑 Languages and tools:
 
