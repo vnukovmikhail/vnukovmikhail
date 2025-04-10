@@ -1,4 +1,4 @@
-## 💽 Hi, i'm Mikhail 
+его вытекающими## 💽 Hi, i'm Mikhail 
 
 ##### I am a university student, I am engaged in programming. I am much more interested in working with the backend, so I study the work of servers, databases and various frameworks for working with them: Django, Laravel, Node.js and others...
 
@@ -14,6 +14,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=Apache&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Render-%23000000?style=flat-square&logo=render&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### 📑 Languages and tools:
 
