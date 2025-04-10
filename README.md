@@ -17,11 +17,11 @@
 
 ### 📑 Languages and tools:
 
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000?style=flat-square&logo=pycharm&logoColor=white)
 ![python](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 ![php](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
