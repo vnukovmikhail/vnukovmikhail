@@ -21,13 +21,13 @@
 ![Django](https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 ![php](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%23161b22?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white)
 
 <!--
 **vnukovmikhail/vnukovmikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
