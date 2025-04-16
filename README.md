@@ -10,15 +10,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white)
+![php](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23000000?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
+
+> Involved in the knowledge of this...
 
 ### 📑 Languages and tools:
 
 ![python](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=Django&logoColor=white)
-![php](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%23161b22?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)
