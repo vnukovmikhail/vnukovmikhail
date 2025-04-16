@@ -10,12 +10,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=Apache&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Render-%23000000?style=flat-square&logo=render&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### 📑 Languages and tools:
 
@@ -26,12 +23,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 ![php](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=Laravel&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=mariadb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=Apache&logoColor=white)
-![Archlinux](https://img.shields.io/badge/Archlinux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%23161b22?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white)
