@@ -1,6 +1,6 @@
 ## 💽 Hi, i'm Mikhail 
 
-##### I am a university student, I am engaged in programming. I am much more interested in working with the backend, so I study the work of servers, databases and various frameworks for working with them: Django, Laravel, Node.js and others...
+##### I am a student at a state university, studying at the faculty of real sciences and programming. I am much more interested in working with the backend, so I study the work of servers, databases and various frameworks for working with them: Django, Laravel, Nest.js and others...
 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k7Qv5iXq3)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vnukovmisa72@gmail.com)
