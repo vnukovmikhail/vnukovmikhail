@@ -6,15 +6,15 @@
 
 ### 📑 Learning & knowledge:
 
-#### Languages: 
-![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white)
-
-#### Frameworks:
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nestjs-%23E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnukovmikhail&show_icons=true&theme=transparent)
+![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)
