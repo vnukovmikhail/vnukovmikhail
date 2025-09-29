@@ -2,7 +2,7 @@
 
 #### 📝 Information about me:
 
-> Hello, I am a student at a state university. I am involved in backend and software and application development. I am currently improving my skills in system administration and DevOps. I'm learning to work with Linux servers and support projects.
+> I am a student at a state university. I am involved in `backend`, improving my skills in `system administration` and `DevOps`. I'm learning to work with `Linux servers` and support projects.
 
 ---
 
