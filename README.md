@@ -14,8 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/Nestjs-%23E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css-%23663399?style=flat-square&logo=css&logoColor=white)
-![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
