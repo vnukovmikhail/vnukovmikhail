@@ -23,6 +23,7 @@
 ![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GNU%20Bash-%230d0d0d?style=flat-square&logo=gnubash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=apache&logoColor=white)
