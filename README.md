@@ -15,7 +15,6 @@
 ![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Render-%23000000?style=flat-square&logo=render&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
@@ -23,6 +22,7 @@
 ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?style=flat-square&logo=nginx&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apache-%23D22128?style=flat-square&logo=apache&logoColor=white)
 
