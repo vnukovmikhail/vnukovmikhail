@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**vnukovmikhail/vnukovmikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tools
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Lua-%23000080?style=flat-square&logo=lua&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+
+**Environment & Linux**
+
+![Static Badge](https://img.shields.io/badge/ArchLinux-%231793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LazyVim-%232E7DE9?style=flat-square&logo=lazyvim&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bitbucket-%230052CC?style=flat-square&logo=bitbucket&logoColor=white)
