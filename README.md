@@ -1,7 +1,3 @@
-## Hi there 👋
-
-### 🛠️ Tech Stack & Tools
-
 **Languages**
 
 ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
